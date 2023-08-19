@@ -1,5 +1,5 @@
 # Gatito Petshop
-Deshbord em Power BI
+Dashboard em Power BI
 
 Projeto em Power BI para para criação de Painel de Negócios para o Pet Shop Gatito.
 
