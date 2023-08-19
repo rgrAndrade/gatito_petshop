@@ -7,6 +7,7 @@ Projeto em Power BI para para criação de Painel de Negócios para o Pet Shop G
 | -------------  | --- |
 | :sparkles: Nome        | **gatito_petshop**
 | :label: Tecnologias | Power BI, Planilha Excel, Planilha Google e Arquivo .txt(tecnologias utilizadas)
+| :rocket: URL         | https://app.powerbi.com/view?r=eyJrIjoiNTUwMzg3NDctNWU5Yi00ODViLTlhNzQtNDY5ZGNiYTk0NDI2IiwidCI6Ijk4ZDhhMWEyLWMzYWUtNGFlMi05ZTIxLTFjYTVhOTEyNzRjZSJ9
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
